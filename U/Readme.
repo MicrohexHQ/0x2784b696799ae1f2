@@ -1,0 +1,12 @@
+Search results for '0x2784b696799ae1f2'
+Type bits/keyID     cr. time   exp time   key expir
+pub  4096R/799AE1F2 2016-05-26            
+
+uid Jacob Appelbaum's Victims Collective <jacobsvictims@gmail.com>
+sig  sig3  799AE1F2 2016-05-26 __________ 2021-05-25 [selfsig]
+
+sub  4096R/1C9AEDE9 2016-05-26            
+sig sbind  799AE1F2 2016-05-26 __________ 2021-05-25 []
+
+sub  4096R/DADB7E22 2016-05-26            
+sig sbind  799AE1F2 2016-05-26 __________ 2021-05-25 []
